@@ -37,7 +37,6 @@ Second-year Electronics & Communication Engineering student at the **Institute o
 ### activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yonko-ishan&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yonko-ishan&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
