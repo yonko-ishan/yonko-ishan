@@ -1,39 +1,16 @@
-<h1 align="center">Ishan Ghimire</h1>
-<p align="center"><em>Engineer in progress · 2nd year EE @ Pulchowk Campus</em></p>
+<h1 align="center">Hi, I'm Ishan 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Electronics+Engineering+Student+%40+Pulchowk;Full-Stack+Developer+%26+Embedded+Tinkerer;Bridging+Hardware+%26+Software&font=Fira+Code&center=true&width=520&height=45&color=a855f7&vCenter=true&size=18&pause=1500" alt="typing" />
+</p>
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="55%">
+### About me
 
-### whoami
+Second-year Electronics & Communication Engineering student at the **Institute of Engineering, Pulchowk Campus, Lalitpur**. My focus spans embedded systems and full-stack web development, with hands-on experience in bare-metal firmware development and modern web application engineering.
 
-Electronics & Communication student at Pulchowk Campus (IOE), Kathmandu. Second year. I work across the full stack of engineering — from the silicon running the firmware to the React components that ship to users.
-
-Right now I'm deep in microprocessor architecture, signal processing, and the slow climb toward writing real STM32 firmware. On the software side I recently shipped **[Goal Tracker](https://github.com/yonko-ishan/Goal-Tracker)** — a streak-based productivity heatmap built with Next.js and Supabase.
-
-</td>
-<td valign="top" width="45%">
-
-```yaml
-name:     Ishan Ghimire
-school:   Pulchowk Campus, IOE
-year:     2 / 4
-location: Kathmandu, Nepal
-machine:  Arch Linux
-shell:    bash + tmux
-editor:   Neovim
-focus:    embedded + web
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### what i build with
+### Tech Stacks:
 
 <p align="center"><strong>frontend</strong></p>
 <p align="center">
