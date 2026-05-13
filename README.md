@@ -1,27 +1,46 @@
-<h1 align="center">Hey, I'm Ishan 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Electronics+%2B+Code;Pulchowk+Campus%2C+IOE;Firmware+by+day%2C+Tailwind+by+night&font=Fira+Code&center=true&width=480&height=40&color=a855f7&vCenter=true&size=18&pause=1500" />
-</p>
+<h1 align="center">Ishan Ghimire</h1>
+<p align="center"><em>Engineer in progress · 2nd year EE @ Pulchowk Campus</em></p>
 
 ---
 
-### the gist
+<table>
+<tr>
+<td valign="top" width="55%">
 
-2nd year EE at Pulchowk. I spend my time bouncing between writing C for microcontrollers and shipping Next.js apps for the web. The kind of student who breadboards by day and debugs Tailwind classes by night.
+### whoami
 
-Latest thing I built: **[Goal Tracker](https://github.com/yonko-ishan/Goal-Tracker)** — a streak-based productivity heatmap. Right now I'm working through 8085 assembly, signals & systems, and getting comfortable on STM32.
+Electronics & Communication student at Pulchowk Campus (IOE), Kathmandu. Second year. I work across the full stack of engineering — from the silicon running the firmware to the React components that ship to users.
+
+Right now I'm deep in microprocessor architecture, signal processing, and the slow climb toward writing real STM32 firmware. On the software side I recently shipped **[Goal Tracker](https://github.com/yonko-ishan/Goal-Tracker)** — a streak-based productivity heatmap built with Next.js and Supabase.
+
+</td>
+<td valign="top" width="45%">
+
+```yaml
+name:     Ishan Ghimire
+school:   Pulchowk Campus, IOE
+year:     2 / 4
+location: Kathmandu, Nepal
+machine:  Arch Linux
+shell:    bash + tmux
+editor:   Neovim
+focus:    embedded + web
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-### the stack
+### what i build with
 
-<p align="center"><strong>web</strong></p>
+<p align="center"><strong>frontend</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
 </p>
 
-<p align="center"><strong>server</strong></p>
+<p align="center"><strong>backend</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,supabase,postgres,python" />
 </p>
@@ -31,14 +50,14 @@ Latest thing I built: **[Goal Tracker](https://github.com/yonko-ishan/Goal-Track
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino" />
 </p>
 
-<p align="center"><strong>daily setup</strong></p>
+<p align="center"><strong>environment</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,neovim,bash,git" />
 </p>
 
 ---
 
-### what github knows about me
+### activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yonko-ishan&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="49%" />
@@ -47,7 +66,7 @@ Latest thing I built: **[Goal Tracker](https://github.com/yonko-ishan/Goal-Track
 
 ---
 
-### find me
+### get in touch
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishan-ghimire-31250b343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
